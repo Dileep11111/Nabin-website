@@ -474,7 +474,10 @@ details[open] summary~* {
 .download {
     margin: 30px 0;
 }
-
+img{
+    width: 400px;
+    height: 400px;
+}
 /* End App */
 
 /* Footer */
